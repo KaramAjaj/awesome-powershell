@@ -1,1 +1,3 @@
-"hi!" 
+There once was a cat called James
+It liked tuna.
+The end.
